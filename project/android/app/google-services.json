@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933931655864",
+    "project_id": "baharreactnativeproject",
+    "storage_bucket": "baharreactnativeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933931655864:android:97a2e366619dcd55db0a4d",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933931655864-vpnrvu7dtrgp3efpdsodkvme88bv0g58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4U3mJ9yn0WSi_Rkw6ItYlpN1dUtqcgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933931655864-vpnrvu7dtrgp3efpdsodkvme88bv0g58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933931655864-i7hk664sf3ddc29ve2php7d5i7qqgu8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
